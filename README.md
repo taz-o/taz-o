@@ -8,14 +8,21 @@ I am a Discord and API developer with expertise since 2019, currently working at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamazbenidze/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](tamaz_benidze) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tamaz.benidze16@gmail.com)
-[![Static Badge](https://img.shields.io/badge/steam-blue?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/tamazius/)
+[![Steam](https://img.shields.io/badge/steam-blue?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/tamazius/)
 
-## 👅 Languages:
+## 📜 Coding languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
+
+## 👅 Native Language:
+![Georgian](https://img.shields.io/badge/Georgian-white?style=for-the-badge&label=GE&labelColor=red)
+![English](https://img.shields.io/badge/EN-blue?style=for-the-badge)
+
+## 👅 Prefered Language:
+![English](https://img.shields.io/badge/English-red?style=for-the-badge&label=EN&labelColor=blue)
 
 ## 🎭 Artist tools:
 [![Blender](https://img.shields.io/badge/blender-orange?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/download/)
@@ -33,7 +40,7 @@ I am a Discord and API developer with expertise since 2019, currently working at
 [![Durty Cloth Tool](https://img.shields.io/badge/tool-purple?style=for-the-badge&label=durty%20cloth&labelColor=pink)](https://gta.clothing/)
 [![Rpf to FiveM](https://img.shields.io/badge/fivem-red?style=for-the-badge&label=rpf%202&labelColor=orange)](https://github.com/Avenze/rpf2fivem-repository/releases)
 [![Grzy Cloth Tool](https://img.shields.io/badge/tool-gray?style=for-the-badge&label=grzy%20cloth&labelColor=%238A8B8B)](https://github.com/grzybeek/grzyClothTool/releases)
-[![Static Badge](https://img.shields.io/badge/Testing-yellow?style=for-the-badge&label=Textures&labelColor=cyan)](https://github.com/taz-o/TexturesTesting)
+[![Textures Testing](https://img.shields.io/badge/Testing-yellow?style=for-the-badge&label=Textures&labelColor=cyan)](https://github.com/taz-o/TexturesTesting)
 [![YTYP Generator](https://img.shields.io/badge/generator-cyan?style=for-the-badge&label=ytyp&labelColor=blue)](https://www.gta5-mods.com/tools/ytyp-generator-using-odrs)
 [![Folder 2 Ytd](https://img.shields.io/badge/ytd-orange?style=for-the-badge&label=folder%202&labelColor=yellow)](https://github.com/Hancapo/Folder2YTD/releases)
 [![YMT Editor](https://img.shields.io/badge/editor-green?style=for-the-badge&label=ymt&labelColor=%234b5320)](https://github.com/grzybeek/YMTEditor/releases)
