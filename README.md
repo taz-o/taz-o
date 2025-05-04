@@ -10,7 +10,7 @@ I am a Discord and API developer with expertise since 2019, currently working at
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tamaz.benidze16@gmail.com)
 [![Steam](https://img.shields.io/badge/steam-blue?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/tamazius/)
 
-## 📜 Coding languages
+## 📜 Coding languages:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
