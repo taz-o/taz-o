@@ -32,10 +32,10 @@ I am a Discord and API developer with expertise since 2019, currently working at
 [![CodeX](https://img.shields.io/badge/codex-yellow?style=for-the-badge)](https://www.patreon.com/dexyfex)
 [![OpenIV](https://img.shields.io/badge/openiv-gray?style=for-the-badge&color=%236e6e6e)](https://openiv.com/)
 [![Sollumz](https://img.shields.io/badge/sollumz-orange?style=for-the-badge&color=%23c39750)](https://docs.sollumz.org/)
-[![Tex Tools](https://img.shields.io/badge/Tools-blue?label=Tex&labelColor=red)](https://github.com/franMarz/TexTools-Blender/releases)
+[![Tex Tools](https://img.shields.io/badge/Tools-blue?style=for-the-badge&label=Tex&labelColor=red)](https://github.com/franMarz/TexTools-Blender/releases)
 
 ## 🔧 Secondary Tools:
-[![Vicho Tools](https://img.shields.io/badge/Tools-yellow?label=Vicho&labelColor=orange)](https://github.com/Hancapo/VichoTools/releases)
+[![Vicho Tools](https://img.shields.io/badge/Tools-yellow?style=for-the-badge&label=Vicho&labelColor=orange)](https://github.com/Hancapo/VichoTools/releases)
 [![Altv Cloth Tool](https://img.shields.io/badge/tool-black?style=for-the-badge&label=altv%20cloth&labelColor=white)](https://github.com/indilo53/altv-cloth-tool/releases)
 [![Durty Cloth Tool](https://img.shields.io/badge/tool-purple?style=for-the-badge&label=durty%20cloth&labelColor=pink)](https://gta.clothing/)
 [![Rpf to FiveM](https://img.shields.io/badge/fivem-red?style=for-the-badge&label=rpf%202&labelColor=orange)](https://github.com/Avenze/rpf2fivem-repository/releases)
