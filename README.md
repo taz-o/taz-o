@@ -22,20 +22,20 @@ I am a Discord and API developer with expertise since 2019, currently working at
 ## 👅 Prefered Language:
 ![English](https://img.shields.io/badge/English-red?style=for-the-badge&label=EN&labelColor=blue)
 
-## 🎭 Artist tools:
+## 🎭 Artist - Tools:
 [![Blender](https://img.shields.io/badge/blender-orange?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/download/)
 [![Adobe Photoshop](https://img.shields.io/badge/photoshop-blue?style=for-the-badge&logo=google%20photos&logoColor=white&label=adobe&labelColor=blue)](https://www.adobe.com/products/photoshop.html)
 [![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/downloads/)
 
-## 🪛 General tools:
-[![Codewalker](https://img.shields.io/badge/codewalker-red?style=for-the-badge&color=%23fa7878)](https://discord.gg/65GXTz4XzE)
-[![CodeX](https://img.shields.io/badge/codex-yellow?style=for-the-badge)](https://www.patreon.com/dexyfex)
-[![OpenIV](https://img.shields.io/badge/openiv-gray?style=for-the-badge&color=%236e6e6e)](https://openiv.com/)
-[![Sollumz](https://img.shields.io/badge/sollumz-orange?style=for-the-badge&color=%23c39750)](https://docs.sollumz.org/)
+## 🪛 Blender - Plugins:
 [![Tex Tools](https://img.shields.io/badge/Tools-blue?style=for-the-badge&label=Tex&labelColor=red)](https://github.com/franMarz/TexTools-Blender/releases)
+[![Materialize](https://img.shields.io/badge/Materialize-cyan?style=for-the-badge&cacheSeconds=https%3A%2F%2Fboundingboxsoftware.com%2Fmaterialize%2F)](https://boundingboxsoftware.com/materialize/)
 
-## 🔧 Secondary Tools:
+## 🪛 Blender (Grand Theft Auto V / Red Dead Redemption 2) - Plugins:
+[![Sollumz](https://img.shields.io/badge/sollumz-orange?style=for-the-badge&color=%23c39750)](https://docs.sollumz.org/)
 [![Vicho Tools](https://img.shields.io/badge/Tools-yellow?style=for-the-badge&label=Vicho&labelColor=orange)](https://github.com/Hancapo/VichoTools/releases)
+
+## 🔧 Grand Theft Auto V / Red Dead Redemption 2 - Tools:
 [![Altv Cloth Tool](https://img.shields.io/badge/tool-black?style=for-the-badge&label=altv%20cloth&labelColor=white)](https://github.com/indilo53/altv-cloth-tool/releases)
 [![Durty Cloth Tool](https://img.shields.io/badge/tool-purple?style=for-the-badge&label=durty%20cloth&labelColor=pink)](https://gta.clothing/)
 [![Rpf to FiveM](https://img.shields.io/badge/fivem-red?style=for-the-badge&label=rpf%202&labelColor=orange)](https://github.com/Avenze/rpf2fivem-repository/releases)
@@ -43,16 +43,20 @@ I am a Discord and API developer with expertise since 2019, currently working at
 [![Textures Testing](https://img.shields.io/badge/Testing-yellow?style=for-the-badge&label=Textures&labelColor=cyan)](https://github.com/taz-o/TexturesTesting)
 [![YTYP Generator](https://img.shields.io/badge/generator-cyan?style=for-the-badge&label=ytyp&labelColor=blue)](https://www.gta5-mods.com/tools/ytyp-generator-using-odrs)
 [![Folder 2 Ytd](https://img.shields.io/badge/ytd-orange?style=for-the-badge&label=folder%202&labelColor=yellow)](https://github.com/Hancapo/Folder2YTD/releases)
+[![Paint.net](https://img.shields.io/badge/.net-white?style=for-the-badge&label=Paint&labelColor=blue&cacheSeconds=https%3A%2F%2Fboundingboxsoftware.com%2Fmaterialize%2F)](https://www.getpaint.net/download.html)
 [![YMT Editor](https://img.shields.io/badge/editor-green?style=for-the-badge&label=ymt&labelColor=%234b5320)](https://github.com/grzybeek/YMTEditor/releases)
 [![Dlc Pack Creator](https://img.shields.io/badge/creator-darkblue?style=for-the-badge&label=dlc%20pack&labelColor=%23cd9575)](https://www.gta5-mods.com/tools/dlc-pack-creator)
+[![Codewalker](https://img.shields.io/badge/codewalker-red?style=for-the-badge&color=%23fa7878)](https://discord.gg/65GXTz4XzE)
+[![CodeX](https://img.shields.io/badge/codex-yellow?style=for-the-badge)](https://www.patreon.com/dexyfex)
+[![OpenIV](https://img.shields.io/badge/openiv-gray?style=for-the-badge&color=%236e6e6e)](https://openiv.com/)
 
-## 📊 GitHub Stats:
+## 📊 GitHub - Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=taz-o&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=taz-o&theme=gruvbox&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taz-o&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub - Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=taz-o&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
