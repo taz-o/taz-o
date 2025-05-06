@@ -20,7 +20,7 @@ I am a Discord and API developer with expertise since 2019, currently working at
 ## 👅 Native Language:
 ![Georgian](https://img.shields.io/badge/Georgian-white?style=for-the-badge&label=GE&labelColor=red)
 
-## 👅 Prefered Language:
+## ✅ Prefered Language:
 ![English](https://img.shields.io/badge/English-red?style=for-the-badge&label=EN&labelColor=blue)
 
 ## 🎭 Artist - Tools:
