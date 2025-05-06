@@ -19,6 +19,7 @@ I am a Discord and API developer with expertise since 2019, currently working at
 
 ## 👅 Native Language:
 ![Georgian](https://img.shields.io/badge/Georgian-white?style=for-the-badge&label=GE&labelColor=red)
+
 ## 👅 Prefered Language:
 ![English](https://img.shields.io/badge/English-red?style=for-the-badge&label=EN&labelColor=blue)
 
@@ -27,11 +28,11 @@ I am a Discord and API developer with expertise since 2019, currently working at
 [![Adobe Photoshop](https://img.shields.io/badge/photoshop-blue?style=for-the-badge&logo=google%20photos&logoColor=white&label=adobe&labelColor=blue)](https://www.adobe.com/products/photoshop.html)
 [![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/downloads/)
 
-## 🪛 Blender - Plugins:
+## 🔌 Blender - Plugins:
 [![Tex Tools](https://img.shields.io/badge/Tools-blue?style=for-the-badge&label=Tex&labelColor=red)](https://github.com/franMarz/TexTools-Blender/releases)
 [![Materialize](https://img.shields.io/badge/Materialize-cyan?style=for-the-badge&cacheSeconds=https%3A%2F%2Fboundingboxsoftware.com%2Fmaterialize%2F)](https://boundingboxsoftware.com/materialize/)
 
-## 🪛 Blender (Grand Theft Auto V / Red Dead Redemption 2) - Plugins:
+## 🎮 Blender (Grand Theft Auto V / Red Dead Redemption 2) - Plugins:
 [![Sollumz](https://img.shields.io/badge/sollumz-orange?style=for-the-badge&color=%23c39750)](https://docs.sollumz.org/)
 [![Vicho Tools](https://img.shields.io/badge/Tools-yellow?style=for-the-badge&label=Vicho&labelColor=orange)](https://github.com/Hancapo/VichoTools/releases)
 
