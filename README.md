@@ -33,7 +33,7 @@ I am a Discord and API developer with expertise since 2019, currently working at
 [![Materialize](https://img.shields.io/badge/Materialize-cyan?style=for-the-badge&cacheSeconds=https%3A%2F%2Fboundingboxsoftware.com%2Fmaterialize%2F)](https://boundingboxsoftware.com/materialize/)
 
 ## 🎮 Blender (Grand Theft Auto V / Red Dead Redemption 2) - Plugins:
-[![Gta Sollumz](https://img.shields.io/badge/sollumz-orange?style=for-the-badge&color=%23c39750)](https://docs.sollumz.org/)
+[![Gta Sollumz](https://img.shields.io/badge/Sollumz-orange?style=for-the-badge&label=GTAV&labelColor=darkgreen)](https://docs.sollumz.org/)
 [![RDR2 Sollumz](https://img.shields.io/badge/Sollumz-orange?style=for-the-badge&label=RDR2&labelColor=darkred)](https://github.com/Sollumz/Sollumz_RDR)
 [![Vicho Tools](https://img.shields.io/badge/Tools-yellow?style=for-the-badge&label=Vicho&labelColor=orange)](https://github.com/Hancapo/VichoTools/releases)
 
