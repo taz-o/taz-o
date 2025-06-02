@@ -53,7 +53,7 @@ I am a Discord and API developer with expertise since 2019, currently working at
 [![CodeX](https://img.shields.io/badge/codex-yellow?style=for-the-badge)](https://www.patreon.com/dexyfex)
 [![OpenIV](https://img.shields.io/badge/openiv-gray?style=for-the-badge&color=%236e6e6e)](https://openiv.com/)
 [![Static Badge](https://img.shields.io/badge/Sharp-lightgray?style=for-the-badge&label=Siren&labelColor=red)](https://docs.sirensharp.dev/)
-[![TextureTool](https://img.shields.io/badge/Tool-black?style=for-the-badge&label=Texture&labelColor=black)](https://www.gta5-mods.com/tools/texture-toolkit)
+[![TextureTool](https://img.shields.io/badge/Toolkit-black?style=for-the-badge&label=Texture&labelColor=black)](https://www.gta5-mods.com/tools/texture-toolkit)
 
 ## 📊 GitHub - Stats:
 
