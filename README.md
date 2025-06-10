@@ -37,6 +37,7 @@ I am a Discord and API developer with expertise since 2019, currently working at
 [![RDR2 Sollumz](https://img.shields.io/badge/RDR2-darkred?style=for-the-badge&label=Sollumz&labelColor=orange)](https://github.com/Sollumz/Sollumz_RDR)
 [![Vicho Tools](https://img.shields.io/badge/Tools-yellow?style=for-the-badge&label=Vicho&labelColor=orange)](https://github.com/Hancapo/VichoTools/releases)
 [![Deep Bump](https://img.shields.io/badge/Bump-violet?style=for-the-badge&label=Deep&labelColor=pink)](https://github.com/HugoTini/DeepBump/releases)
+[![Vertex Colour Master](https://img.shields.io/badge/VCM-green?style=for-the-badge)](https://github.com/andyp123/blender_vertex_color_master/releases)
 
 ## 🔧 Grand Theft Auto V / Red Dead Redemption 2 - Tools:
 [![Altv Cloth Tool](https://img.shields.io/badge/tool-black?style=for-the-badge&label=altv%20cloth&labelColor=white)](https://github.com/indilo53/altv-cloth-tool/releases)
