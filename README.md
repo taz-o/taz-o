@@ -24,10 +24,10 @@ I am a Discord and API developer with expertise since 2019, currently working at
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20studio%20Code-cyan?style=for-the-badge)](https://code.visualstudio.com/)
 
 ## 👅 Native Language:
-[![Georgian](https://img.shields.io/badge/Georgian-white?style=for-the-badge&label=GE&labelColor=red)](https://en.wikipedia.org/wiki/Georgia_(country))
+[![Georgian](https://img.shields.io/badge/GE-darkred?style=for-the-badge&label=Georgian&labelColor=white)](https://en.wikipedia.org/wiki/Georgia_(country))
 
 ## ✅ Prefered Language:
-[![English (International)](https://img.shields.io/badge/English-red?style=for-the-badge&label=EN&labelColor=blue)](https://en.wikipedia.org/wiki/International_English)
+[![English (International)](https://img.shields.io/badge/EN-darkred?style=for-the-badge&label=English&labelColor=blue)](https://en.wikipedia.org/wiki/International_English)
 
 ## ⚒️ Default - Tools:
 [![Paint.NET](https://img.shields.io/badge/.NET-blue?style=for-the-badge&label=Paint&labelColor=white)](https://www.getpaint.net/)
