@@ -3,6 +3,12 @@
 ## 💫 About Me:
 I am a Discord and API developer with expertise since 2019, currently working at Like a King INC. My skills include creating 3D models for games like GTA V and Red Dead Redemption 2 (RDR2), as well as developing and managing customized FiveM and RedM servers. I specialize in integrating Discord bots, APIs, and tools to enhance gaming communities and server functionality
 
+## 👅 Native Language:
+[![Georgian](https://img.shields.io/badge/GE-darkred?style=for-the-badge&label=Georgian&labelColor=white)](https://en.wikipedia.org/wiki/Georgia_(country))
+
+## ✅ Prefered Language:
+[![English (International)](https://img.shields.io/badge/EN-darkred?style=for-the-badge&label=English&labelColor=darkblue)](https://en.wikipedia.org/wiki/International_English)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1235698072672145533) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamazbenidze/) 
@@ -26,11 +32,8 @@ I am a Discord and API developer with expertise since 2019, currently working at
 ## 🎴 Custom Media Player:
 [![VLC Media Player](https://img.shields.io/badge/Media%20Player-white?style=for-the-badge&label=VLC&labelColor=orange)](https://www.videolan.org/)
 
-## 👅 Native Language:
-[![Georgian](https://img.shields.io/badge/GE-darkred?style=for-the-badge&label=Georgian&labelColor=white)](https://en.wikipedia.org/wiki/Georgia_(country))
-
-## ✅ Prefered Language:
-[![English (International)](https://img.shields.io/badge/EN-darkred?style=for-the-badge&label=English&labelColor=darkblue)](https://en.wikipedia.org/wiki/International_English)
+## Video Editor:
+[![DaVinci Resolve](https://img.shields.io/badge/Resolve-red?style=for-the-badge&label=DaVinci&labelColor=yellow)]
 
 ## ⚒️ Default - Tools:
 [![Paint.NET](https://img.shields.io/badge/.NET-blue?style=for-the-badge&label=Paint&labelColor=white)](https://www.getpaint.net/)
