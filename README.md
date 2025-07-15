@@ -23,6 +23,9 @@ I am a Discord and API developer with expertise since 2019, currently working at
 ## 🖌️ Code Editor:
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20studio%20Code-cyan?style=for-the-badge)](https://code.visualstudio.com/)
 
+## 🎴 Custom Media Player:
+[![VLC Media Player](https://img.shields.io/badge/Media%20Player-white?style=for-the-badge&label=VLC&labelColor=orange)](https://www.videolan.org/)
+
 ## 👅 Native Language:
 [![Georgian](https://img.shields.io/badge/GE-darkred?style=for-the-badge&label=Georgian&labelColor=white)](https://en.wikipedia.org/wiki/Georgia_(country))
 
