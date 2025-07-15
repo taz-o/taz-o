@@ -17,11 +17,21 @@ I am a Discord and API developer with expertise since 2019, currently working at
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 
+## 💥 IDE:
+[![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-purple?style=for-the-badge)](https://visualstudio.microsoft.com/)
+
+## 🖌️ Code Editor:
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20studio%20Code-cyan?style=for-the-badge)](https://code.visualstudio.com/)
+
 ## 👅 Native Language:
-![Georgian](https://img.shields.io/badge/Georgian-white?style=for-the-badge&label=GE&labelColor=red)
+[![Georgian](https://img.shields.io/badge/Georgian-white?style=for-the-badge&label=GE&labelColor=red)](https://en.wikipedia.org/wiki/Georgia_(country))
 
 ## ✅ Prefered Language:
-![English](https://img.shields.io/badge/English-red?style=for-the-badge&label=EN&labelColor=blue)
+[![English (International)](https://img.shields.io/badge/English-red?style=for-the-badge&label=EN&labelColor=blue)](https://en.wikipedia.org/wiki/International_English)
+
+## ⚒️ Default - Tools:
+[![Paint.NET](https://img.shields.io/badge/.NET-blue?style=for-the-badge&label=Paint&labelColor=white)](https://www.getpaint.net/)
+[![Notepad++](https://img.shields.io/badge/%2B%2B-green?style=for-the-badge&label=Notepad&labelColor=%23dcc576)](https://notepad-plus-plus.org/)
 
 ## 🎭 Artist - Tools:
 [![Blender](https://img.shields.io/badge/blender-orange?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/download/)
