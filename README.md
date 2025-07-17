@@ -30,7 +30,7 @@ I am a Discord and API developer with expertise since 2019, currently working at
 [![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-purple?style=for-the-badge)](https://visualstudio.microsoft.com/)
 
 ## 🖌️ Code Editor:
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20studio%20Code-cyan?style=for-the-badge)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge)](https://code.visualstudio.com/)
 
 ## 🎴 Custom Media Player:
 [![VLC Media Player](https://img.shields.io/badge/Media%20Player-white?style=for-the-badge&label=VLC&labelColor=orange)](https://www.videolan.org/)
