@@ -66,7 +66,6 @@ I am a Discord and API developer with expertise since 2019, currently working at
 [![Textures Testing](https://img.shields.io/badge/Testing-yellow?style=for-the-badge&label=Textures&labelColor=cyan)](https://github.com/taz-o/TexturesTesting)
 [![YTYP Generator](https://img.shields.io/badge/generator-cyan?style=for-the-badge&label=ytyp&labelColor=blue)](https://www.gta5-mods.com/tools/ytyp-generator-using-odrs)
 [![Folder 2 Ytd](https://img.shields.io/badge/ytd-orange?style=for-the-badge&label=folder%202&labelColor=yellow)](https://github.com/Hancapo/Folder2YTD/releases)
-[![Paint.net](https://img.shields.io/badge/.net-white?style=for-the-badge&label=Paint&labelColor=blue&cacheSeconds=https%3A%2F%2Fboundingboxsoftware.com%2Fmaterialize%2F)](https://www.getpaint.net/download.html)
 [![YMT Editor](https://img.shields.io/badge/editor-green?style=for-the-badge&label=ymt&labelColor=%234b5320)](https://github.com/grzybeek/YMTEditor/releases)
 [![Dlc Pack Creator](https://img.shields.io/badge/creator-darkblue?style=for-the-badge&label=dlc%20pack&labelColor=%23cd9575)](https://www.gta5-mods.com/tools/dlc-pack-creator)
 [![Codewalker](https://img.shields.io/badge/codewalker-red?style=for-the-badge&color=%23fa7878)](https://discord.gg/65GXTz4XzE)
