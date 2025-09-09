@@ -35,7 +35,7 @@ I am a Discord and API developer with expertise since 2019, currently working at
 ## 🎴 Custom Media Player:
 [![VLC Media Player](https://img.shields.io/badge/Media%20Player-white?style=for-the-badge&label=VLC&labelColor=orange)](https://www.videolan.org/)
 
-## Video Editor:
+## 🎥 Video Editor:
 [![DaVinci Resolve](https://img.shields.io/badge/Resolve-red?style=for-the-badge&label=DaVinci&labelColor=yellow)](https://www.blackmagicdesign.com/products/davinciresolve)
 
 ## ⚒️ Default - Tools:
