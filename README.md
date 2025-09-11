@@ -9,6 +9,7 @@ I am a Discord and API developer with expertise since 2019, currently working at
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tamaz_benidze) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tamaz.benidze16@gmail.com)
 [![Steam](https://img.shields.io/badge/steam-blue?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/tamazius/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)]([https://instagram.com/შენი_მომხმარებლის_სახელი](https://www.instagram.com/tamaz.benidze/))
 
 ## 👅 Native Language:
 [![Georgian](https://img.shields.io/badge/GE-darkred?style=for-the-badge&label=Georgian&labelColor=white)](https://en.wikipedia.org/wiki/Georgia_(country))
