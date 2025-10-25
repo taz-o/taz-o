@@ -31,6 +31,11 @@ I am a Discord and API developer with expertise since 2019, currently working at
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://git-scm.com/)
 [![Nvidia App](https://img.shields.io/badge/NVIDIA%20App-green?style=for-the-badge)](https://www.nvidia.com/en-us/software/nvidia-app/)
 
+## :
+[![HeidiSQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&label=Heidi&labelColor=green)](https://www.heidisql.com/)
+[![XAMPP](https://img.shields.io/badge/XAMPP-orange?style=for-the-badge)](https://www.apachefriends.org/)
+
+
 ## 💼 Archive Openers:
 [![WinRAR](https://img.shields.io/badge/WinRAR-red?style=for-the-badge)](https://www.rarlab.com/download.htm)
 [![7 Zip](https://img.shields.io/badge/zip-white?style=for-the-badge&label=7&labelColor=black)](https://www.7-zip.org/download.html)
