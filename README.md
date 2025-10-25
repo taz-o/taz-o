@@ -31,6 +31,10 @@ I am a Discord and API developer with expertise since 2019, currently working at
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://git-scm.com/)
 [![Nvidia App](https://img.shields.io/badge/NVIDIA%20App-green?style=for-the-badge)](https://www.nvidia.com/en-us/software/nvidia-app/)
 
+## 💼 Archive Openers:
+[![WinRAR](https://img.shields.io/badge/WinRAR-red?style=for-the-badge)](https://www.rarlab.com/download.htm)
+[![7 Zip](https://img.shields.io/badge/zip-white?style=for-the-badge&label=7&labelColor=black)](https://www.7-zip.org/download.html)
+
 ## 💥 Integrated Development Environment (IDE):
 [![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-purple?style=for-the-badge)](https://visualstudio.microsoft.com/)
 
