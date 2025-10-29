@@ -60,6 +60,7 @@ I am a Discord and API developer with expertise since 2019, currently working at
 ## 🔍 Decompiler - Tools:
 [![ILSpy Fresh](https://img.shields.io/badge/Fresh-white?style=for-the-badge&label=ILSpy&labelColor=lightblue)](https://apps.microsoft.com/detail/xp8c26vdwlp4t4?launch=true&mode=full&hl=en-us&gl=ge&ocid=bingwebsearch)
 [![dotPeek](https://img.shields.io/badge/Peek-white?style=for-the-badge&label=Dot&labelColor=black)](https://www.jetbrains.com/decompiler/)
+[![Java Decompiler](https://img.shields.io/badge/Decompiler-white?style=for-the-badge&label=Java&labelColor=gray)](https://java-decompiler.github.io/)
 
 ## 🎭 Artist - Tools:
 [![Blender](https://img.shields.io/badge/blender-orange?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/download/)
