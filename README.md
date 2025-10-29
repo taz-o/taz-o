@@ -5,7 +5,6 @@ I am a Discord and API developer with expertise since 2019, currently working at
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1078307901694808164) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamazbenidze/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tamaz_benidze) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tamaz.benidze16@gmail.com)
 [![Steam](https://img.shields.io/badge/steam-blue?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/tamazius/)
