@@ -2,6 +2,7 @@
 
 ## 💫 About Me:
 I am a Discord and API developer with expertise since 2019, currently working at Like a King INC.
+
 My Skills:
  * 3D modeling for games (GTA V, RDR2).
  * Full development and management of custom FiveM and RedM servers.
