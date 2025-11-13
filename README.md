@@ -32,7 +32,6 @@ I am a Discord and API developer with expertise since 2019, currently working at
 ## 🧢 SQL:
 [![HeidiSQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&label=Heidi&labelColor=green)](https://www.heidisql.com/)
 [![XAMPP](https://img.shields.io/badge/XAMPP-orange?style=for-the-badge)](https://www.apachefriends.org/)
-[![Screencast Keys](https://img.shields.io/badge/Screencast%20Keys-black?style=for-the-badge)](https://extensions.blender.org/add-ons/screencast-keys/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ## 💼 Archive Openers:
@@ -69,6 +68,7 @@ I am a Discord and API developer with expertise since 2019, currently working at
 ## 🔌 Blender - Plugins:
 [![Tex Tools](https://img.shields.io/badge/Tools-blue?style=for-the-badge&label=Tex&labelColor=red)](https://github.com/franMarz/TexTools-Blender/releases)
 [![Materialize](https://img.shields.io/badge/Materialize-cyan?style=for-the-badge&cacheSeconds=https%3A%2F%2Fboundingboxsoftware.com%2Fmaterialize%2F)](https://boundingboxsoftware.com/materialize/)
+[![Screencast Keys](https://img.shields.io/badge/Screencast%20Keys-black?style=for-the-badge)](https://extensions.blender.org/add-ons/screencast-keys/)
 
 ## 🎮 Blender (Grand Theft Auto V / Red Dead Redemption 2) - Plugins:
 [![Gta Sollumz](https://img.shields.io/badge/GTAV-darkgreen?style=for-the-badge&label=Sollumz&labelColor=orange)](https://docs.sollumz.org/)
