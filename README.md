@@ -20,7 +20,6 @@ I am a Discord and API developer with expertise since 2019, currently working at
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 
 ## 🧫 Online Driver Updater:
@@ -33,7 +32,8 @@ I am a Discord and API developer with expertise since 2019, currently working at
 ## 🧢 SQL:
 [![HeidiSQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&label=Heidi&labelColor=green)](https://www.heidisql.com/)
 [![XAMPP](https://img.shields.io/badge/XAMPP-orange?style=for-the-badge)](https://www.apachefriends.org/)
-[![Screencast Keys](https://img.shields.io/badge/Screencast%20Keys-black?style=for-the-badge)](https://extensions.blender.org/add-ons/screencast-keys/)
+[![Screencast Keys](https://img.shields.io/badge/Screencast%20Keys-black?style=for-the-badge)](https://extensions.blender.org/add-ons/screencast-keys/
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ## 💼 Archive Openers:
 [![WinRAR](https://img.shields.io/badge/WinRAR-red?style=for-the-badge)](https://www.rarlab.com/download.htm)
