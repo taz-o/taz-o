@@ -1,7 +1,14 @@
 # 👋 Hi there, I'm Tazo
 
 ## 💫 About Me:
-I am a Discord and API developer with expertise since 2019, currently working at Like a King INC. My skills include creating 3D models for games like GTA V and Red Dead Redemption 2 (RDR2), as well as developing and managing customized FiveM and RedM servers. I specialize in integrating Discord bots, APIs, and tools to enhance gaming communities and server functionality
+I am a Discord and API developer with expertise since 2019, currently working at Like a King INC.
+My Skills:
+ * 3D modeling for games (GTA V, RDR2).
+ * Full development and management of custom FiveM and RedM servers.
+ * Writing code for the Qbox core using Lua.
+ * Creating custom programs/tools for GTA V.
+ * Integrating Discord bots, APIs, and other tools to enhance gaming community and server functionality.
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1078307901694808164) 
