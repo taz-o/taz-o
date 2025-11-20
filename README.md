@@ -30,12 +30,12 @@ My Skills:
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
 [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 
-## 🧫 Online Driver Updater:
+## 🧫 Driver Updaters:
 [![Ashampoo](https://img.shields.io/badge/Ashampoo-lightblue?style=for-the-badge)](https://www.ashampoo.com/)
+[![Nvidia App](https://img.shields.io/badge/NVIDIA%20App-green?style=for-the-badge)](https://www.nvidia.com/en-us/software/nvidia-app/)
 
 ## 🖥️ Softwares:
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://git-scm.com/)
-[![Nvidia App](https://img.shields.io/badge/NVIDIA%20App-green?style=for-the-badge)](https://www.nvidia.com/en-us/software/nvidia-app/)
 [![Revo Uninstaller](https://img.shields.io/badge/Revo%20Uninstaller-blue?style=for-the-badge)](https://www.revouninstaller.com/)
 
 ## 🧢 SQL:
