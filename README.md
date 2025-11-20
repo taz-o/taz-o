@@ -36,6 +36,7 @@ My Skills:
 ## 🖥️ Softwares:
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://git-scm.com/)
 [![Nvidia App](https://img.shields.io/badge/NVIDIA%20App-green?style=for-the-badge)](https://www.nvidia.com/en-us/software/nvidia-app/)
+[![Revo Uninstaller](https://img.shields.io/badge/Revo%20Uninstaller-blue?style=for-the-badge)](https://www.revouninstaller.com/)
 
 ## 🧢 SQL:
 [![HeidiSQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&label=Heidi&labelColor=green)](https://www.heidisql.com/)
