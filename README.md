@@ -68,6 +68,8 @@ My Skills:
 [![dotPeek](https://img.shields.io/badge/Peek-white?style=for-the-badge&label=Dot&labelColor=black)](https://www.jetbrains.com/decompiler/)
 [![Java Decompiler](https://img.shields.io/badge/Decompiler-white?style=for-the-badge&label=Java&labelColor=gray)](https://java-decompiler.github.io/)
 [![Java Decompiler](https://img.shields.io/badge/Java%20Decompiler-darkred?style=for-the-badge)](http://www.javadecompilers.com/)
+[![JPEXS Free Flash Decompiler](https://img.shields.io/badge/dec-darkred?style=for-the-badge&label=ff&labelColor=blue)](https://www.free-decompiler.com/flash/download/)
+[![Static Badge](https://img.shields.io/badge/iconsext-green?style=for-the-badge)](https://www.nirsoft.net/utils/iconsext.html)
 
 ## 🎭 Artist - Tools:
 [![Blender](https://img.shields.io/badge/blender-orange?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/download/)
