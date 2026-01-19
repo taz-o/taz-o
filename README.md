@@ -39,6 +39,7 @@ My Skills:
 [![Revo Uninstaller](https://img.shields.io/badge/Revo%20Uninstaller-blue?style=for-the-badge)](https://www.revouninstaller.com/)
 [![TechPowerUp](https://img.shields.io/badge/Power%20Up-darkred?style=for-the-badge&label=Tech&labelColor=black)](https://www.techpowerup.com/download/)
 [![CPU-Z](https://img.shields.io/badge/%C2%A0-pink?style=for-the-badge&label=CPU-Z&labelColor=pink)](https://www.cpuid.com/)
+[![hwinfo](https://img.shields.io/badge/HWiNFO-blue?style=for-the-badge)](https://www.hwinfo.com/download/)
 
 ## 🧢 SQL:
 [![HeidiSQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&label=Heidi&labelColor=green)](https://www.heidisql.com/)
