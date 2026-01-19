@@ -34,6 +34,9 @@ My Skills:
 [![Nvidia App](https://img.shields.io/badge/NVIDIA%20App-green?style=for-the-badge)](https://www.nvidia.com/en-us/software/nvidia-app/)
 [![Ashampoo](https://img.shields.io/badge/Ashampoo-lightblue?style=for-the-badge)](https://www.ashampoo.com/)
 
+## Visual C++ Redistributable Runtimes All-in-One, GPU-Z and etc.
+[![TechPowerUp](https://img.shields.io/badge/Power%20Up-darkred?style=for-the-badge&label=Tech&labelColor=black)](https://www.techpowerup.com/download/)
+
 ## 🖥️ Softwares:
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://git-scm.com/)
 [![Revo Uninstaller](https://img.shields.io/badge/Revo%20Uninstaller-blue?style=for-the-badge)](https://www.revouninstaller.com/)
