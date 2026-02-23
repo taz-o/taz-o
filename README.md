@@ -93,6 +93,9 @@ My Skills:
 [![Deep Bump](https://img.shields.io/badge/Bump-violet?style=for-the-badge&label=Deep&labelColor=pink)](https://github.com/HugoTini/DeepBump/releases)
 [![Vertex Colour Master](https://img.shields.io/badge/VCM-green?style=for-the-badge)](https://github.com/andyp123/blender_vertex_color_master/releases)
 
+## 🔧 Grand Theft Auto San Andreas - Tools:
+[![Magic TXD](https://img.shields.io/badge/TXD-yellow?style=for-the-badge&label=magic&labelColor=purple)](https://www.gtainside.com/en/sanandreas/tools/88448-magic-txd-1-0/)
+
 ## 🔧 Grand Theft Auto V / Red Dead Redemption 2 - Tools:
 [![Altv Cloth Tool](https://img.shields.io/badge/tool-black?style=for-the-badge&label=altv%20cloth&labelColor=white)](https://github.com/indilo53/altv-cloth-tool/releases)
 [![Durty Cloth Tool](https://img.shields.io/badge/tool-purple?style=for-the-badge&label=durty%20cloth&labelColor=pink)](https://gta.clothing/)
