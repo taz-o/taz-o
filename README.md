@@ -71,11 +71,11 @@ My Skills:
 ## 🔍 Decompiler - Tools:
 [![ILSpy Fresh](https://img.shields.io/badge/Fresh-white?style=for-the-badge&label=ILSpy&labelColor=lightblue)](https://apps.microsoft.com/detail/xp8c26vdwlp4t4?launch=true&mode=full&hl=en-us&gl=ge&ocid=bingwebsearch)
 [![dotPeek](https://img.shields.io/badge/Peek-white?style=for-the-badge&label=Dot&labelColor=black)](https://www.jetbrains.com/decompiler/)
-[![dnSpy](https://img.shields.io/badge/DNSPY-grey?style=for-the-badge)](https://github.com/dnSpy/dnSpy/releases)
 [![Java Decompiler](https://img.shields.io/badge/Decompiler-white?style=for-the-badge&label=Java&labelColor=gray)](https://java-decompiler.github.io/)
 [![Java Decompiler](https://img.shields.io/badge/Java%20Decompiler-darkred?style=for-the-badge)](http://www.javadecompilers.com/)
 [![JPEXS Free Flash Decompiler](https://img.shields.io/badge/dec-darkred?style=for-the-badge&label=ff&labelColor=blue)](https://www.free-decompiler.com/flash/download/)
 [![iconsext](https://img.shields.io/badge/iconsext-green?style=for-the-badge)](https://www.nirsoft.net/utils/iconsext.html)
+[![dnSpy](https://img.shields.io/badge/DNSPY-grey?style=for-the-badge)](https://github.com/dnSpy/dnSpy/releases)
 
 ## 🎭 Artist - Tools:
 [![Blender](https://img.shields.io/badge/blender-orange?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/download/)
