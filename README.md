@@ -42,6 +42,7 @@ My Skills:
 [![hwinfo](https://img.shields.io/badge/HWiNFO-blue?style=for-the-badge)](https://www.hwinfo.com/download/)
 [![FurMark](https://img.shields.io/badge/FurMark-orange?style=for-the-badge)](https://www.geeks3d.com/furmark/downloads/)
 [![HWiNFO](https://img.shields.io/badge/iNFO-blue?style=for-the-badge&label=HW&labelColor=white)](https://www.hwinfo.com/download/)
+[![WizTree](https://img.shields.io/badge/WizTree-orange?style=for-the-badge)](https://www.diskanalyzer.com/download)
 
 ## 🧢 SQL:
 [![HeidiSQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&label=Heidi&labelColor=green)](https://www.heidisql.com/)
