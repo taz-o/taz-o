@@ -54,7 +54,7 @@ My Skills:
 [![7 Zip](https://img.shields.io/badge/zip-white?style=for-the-badge&label=7&labelColor=black)](https://www.7-zip.org/download.html)
 
 ## Ai-Powered (IDE):
-[![Google Antigravity](https://img.shields.io/badge/Antigravity-black?style=for-the-badge&label=Google&labelColor=blue)(https://antigravity.google/)]
+[![Google Antigravity](https://img.shields.io/badge/Antigravity-black?style=for-the-badge&label=Google&labelColor=blue)](https://antigravity.google/)
 
 ## 💥 Integrated Development Environment (IDE):
 [![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-purple?style=for-the-badge)](https://visualstudio.microsoft.com/)
