@@ -53,7 +53,7 @@ My Skills:
 [![WinRAR](https://img.shields.io/badge/WinRAR-red?style=for-the-badge)](https://www.rarlab.com/download.htm)
 [![7 Zip](https://img.shields.io/badge/zip-white?style=for-the-badge&label=7&labelColor=black)](https://www.7-zip.org/download.html)
 
-## Ai-Powered (IDE):
+## AI-Powered (IDE):
 [![Google Antigravity](https://img.shields.io/badge/Antigravity-black?style=for-the-badge&label=Google&labelColor=blue)](https://antigravity.google/)
 
 ## 💥 Integrated Development Environment (IDE):
