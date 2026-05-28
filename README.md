@@ -10,12 +10,6 @@ My Skills:
  * Creating custom programs/tools for GTA V.
  * Integrating Discord bots, APIs, and other tools to enhance gaming community and server functionality.
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1078307901694808164) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tamaz_benidze) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tamaz.benidze16@gmail.com)
-
 ## 👅 Native Language:
 [![Georgian](https://img.shields.io/badge/GE-darkred?style=for-the-badge&label=Georgian&labelColor=white)](https://en.wikipedia.org/wiki/Georgia_(country))
 
@@ -118,6 +112,9 @@ My Skills:
 [![ToolKitV](https://img.shields.io/badge/V-purple?style=for-the-badge&label=ToolKit&labelColor=black)](https://umbrella.re/)
 [![AWCMaster](https://img.shields.io/badge/AWCMaster-pink?style=for-the-badge)](https://github.com/qyful/AWCMaster)
 [![MEYM](https://img.shields.io/badge/ME2YM-black?style=for-the-badge)](https://www.gta5-mods.com/tools/mapeditor-2-ymap-converter)
+
+## Tweak Softwares:
+[![BoosterX](https://img.shields.io/badge/X-white?style=for-the-badge&label=Booster&labelColor=black)](https://boosterx.org/en/)
 
 ## 📊 GitHub - Stats:
 
