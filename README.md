@@ -116,19 +116,5 @@ My Skills:
 ## Tweak Softwares:
 [![BoosterX](https://img.shields.io/badge/X-white?style=for-the-badge&label=Booster&labelColor=black)](https://boosterx.org/en/)
 
-## 📊 GitHub - Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=taz-o&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=taz-o&theme=gruvbox&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=taz-o&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub - Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=taz-o&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
-
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=taz-o&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
 ## 💰 You can help me by Donating:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/tamazza)
