@@ -116,6 +116,7 @@ My Skills:
 
 ## Tweak Softwares:
 [![BoosterX](https://img.shields.io/badge/X-white?style=for-the-badge&label=Booster&labelColor=black)](https://boosterx.org/en/)
+[![Hone GG](https://img.shields.io/badge/HoneGG-orange?style=for-the-badge)](https://hone.gg/)
 
 PowerShell Comand: irm "https://christitus.com/win" | iex
 
